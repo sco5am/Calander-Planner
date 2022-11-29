@@ -10,9 +10,9 @@ Live site can be viewed below at the folling link: https://sco5am.github.io/Cala
 
 The Page will look as follows:
 
-    ```md
-    ![alt text](assets/images/Work%20Day%20Scheduler.png)
-    ```
+    
+![alt text](assets/images/Work%20Day%20Scheduler.png)
+    
 
 
 ## License
