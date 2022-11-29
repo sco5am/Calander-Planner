@@ -1,18 +1,17 @@
-# Calander-planer
+# Calander-Planner
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-For this assigment i was tasked with creating a calander application that would save events for each hour of the work day. When an event is entered in the desired timeslot and the save button is clicked, then the appointment will be saved to the users local storage. The date that apprears at the top of the page, as well as the time tracking in the calander itself, are madde possible using the [Day.js](https://day.js.org/en/) library. Through this project i was able to better familerize myself with the jQuery API. 
+For this assigment i was tasked with creating a calander application that would save events for each hour of the work day. When an event is entered in the desired timeslot and the save button is clicked, then the appointment will be saved to the users local storage. The date that apprears at the top of the page, as well as the time tracking in the calander itself, are made possible using the [Day.js](https://day.js.org/en/) library. Through this project i was able to better familiarize myself with the jQuery API. 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Live site can be viewed below at the folling link: https://sco5am.github.io/Calander-Planner/
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+The Page will look as follows:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/Work%20Day%20Scheduler.png)
     ```
 
 
